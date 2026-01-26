@@ -1,4 +1,4 @@
-# DeepSpec-Tomato: A Dual-Stage CAE-CNN Diagnostic Framework
+# AI-Driven Diagnostic Framework for Multi-Class Tomato Leaf Pathologies: A Dual-Stage Self-Supervised CAE-CNN Approach
 
 <p align="center">
   <img src="outputs/diagram_01_project_workflow.png" alt="Project Workflow" width="100%">
