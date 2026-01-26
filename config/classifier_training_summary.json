@@ -1,0 +1,30 @@
+{
+  "completed_date": "2026-01-26 13:21:55",
+  "total_epochs": 40,
+  "total_training_time_seconds": 333.0804591178894,
+  "total_training_time_formatted": "0:05:33",
+  "best_epoch": 39,
+  "best_f1": 0.9773749113082886,
+  "best_accuracy": 0.9762974977493286,
+  "phase1_epochs": 15,
+  "phase2_epochs": 25,
+  "config": {
+    "batch_size": 32,
+    "phase1_epochs": 15,
+    "phase1_lr": 0.001,
+    "phase2_epochs": 25,
+    "phase2_lr": 0.0001,
+    "weight_decay": 0.0001,
+    "dropout": 0.4,
+    "patience": 7,
+    "lr_patience": 3,
+    "lr_factor": 0.5,
+    "min_lr": 1e-06,
+    "hidden_dim": 512,
+    "latent_channels": 128
+  },
+  "model_paths": {
+    "final_model": "/home/maliciit/ml-projects/python-projects/plant-village-cae/models/classifier_final.pth",
+    "checkpoint": "/home/maliciit/ml-projects/python-projects/plant-village-cae/checkpoints/classifier_best.pth"
+  }
+}
