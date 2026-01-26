@@ -1,0 +1,11 @@
+class_name,plant_type,disease,image_count,path
+Tomato___Bacterial_spot,Tomato,Bacterial_spot,2127,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Bacterial_spot
+Tomato___Early_blight,Tomato,Early_blight,1000,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Early_blight
+Tomato___Late_blight,Tomato,Late_blight,1909,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Late_blight
+Tomato___Leaf_Mold,Tomato,Leaf_Mold,952,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Leaf_Mold
+Tomato___Septoria_leaf_spot,Tomato,Septoria_leaf_spot,1771,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Septoria_leaf_spot
+Tomato___Spider_mites Two-spotted_spider_mite,Tomato,Spider_mites Two-spotted_spider_mite,1676,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Spider_mites Two-spotted_spider_mite
+Tomato___Target_Spot,Tomato,Target_Spot,1404,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Target_Spot
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato,Tomato_Yellow_Leaf_Curl_Virus,5357,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Tomato_Yellow_Leaf_Curl_Virus
+Tomato___Tomato_mosaic_virus,Tomato,Tomato_mosaic_virus,373,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___Tomato_mosaic_virus
+Tomato___healthy,Tomato,healthy,1591,/home/maliciit/ml-projects/python-projects/plant-village/data/raw/color/Tomato___healthy

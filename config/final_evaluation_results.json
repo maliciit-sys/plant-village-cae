@@ -1,0 +1,83 @@
+{
+  "evaluation_date": "2026-01-26 13:42:57",
+  "dataset": "PlantVillage (Tomato subset)",
+  "test_samples": 1816,
+  "performance_metrics": {
+    "accuracy": 0.9801762114537445,
+    "precision_macro": 0.9787146652671763,
+    "recall_macro": 0.974018995890973,
+    "f1_macro": 0.976236210719911,
+    "f1_weighted": 0.9801723662974381,
+    "roc_auc_micro": 0.9997775322310415,
+    "mean_average_precision": 0.9973084151914435
+  },
+  "comparison_with_training": {
+    "training_f1": 0.9773749113082886,
+    "test_f1": 0.976236210719911,
+    "f1_difference": 0.001138700588377617,
+    "generalization": "Good"
+  },
+  "confidence_statistics": {
+    "mean_confidence": 0.9720941781997681,
+    "median_confidence": 0.9992434978485107,
+    "std_confidence": 0.08066458255052567,
+    "samples_above_80_percent": 1739,
+    "samples_above_90_percent": 1666,
+    "samples_above_95_percent": 1592
+  },
+  "error_analysis": {
+    "total_misclassified": 36,
+    "misclassification_rate": 0.019823788546255508,
+    "top_confusion_pairs": [
+      {
+        "true": "Early Blight",
+        "predicted": "Late Blight",
+        "count": 4
+      },
+      {
+        "true": "Leaf Mold",
+        "predicted": "Late Blight",
+        "count": 4
+      },
+      {
+        "true": "Spider Mites Two-Spotted Spider Mite",
+        "predicted": "Target Spot",
+        "count": 4
+      },
+      {
+        "true": "Bacterial Spot",
+        "predicted": "Tomato Yellow Leaf Curl Virus",
+        "count": 2
+      },
+      {
+        "true": "Late Blight",
+        "predicted": "Early Blight",
+        "count": 2
+      }
+    ]
+  },
+  "per_class_f1": {
+    "Bacterial Spot": 0.9788235294117648,
+    "Early Blight": 0.9543147208121827,
+    "Late Blight": 0.9612403100775194,
+    "Leaf Mold": 0.9621621621621622,
+    "Septoria Leaf Spot": 0.9915492957746479,
+    "Spider Mites Two-Spotted Spider Mite": 0.9731343283582089,
+    "Target Spot": 0.9543859649122807,
+    "Tomato Yellow Leaf Curl Virus": 0.9962756052141527,
+    "Tomato Mosaic Virus": 1.0,
+    "Healthy": 0.9904761904761905
+  },
+  "per_class_auc": {
+    "Bacterial Spot": 0.9997412130052228,
+    "Early Blight": 0.9996853146853146,
+    "Late Blight": 0.999594039468385,
+    "Leaf Mold": 0.9998470901250802,
+    "Septoria Leaf Spot": 0.9998310944733422,
+    "Spider Mites Two-Spotted Spider Mite": 0.999739944521498,
+    "Target Spot": 0.9986154334709432,
+    "Tomato Yellow Leaf Curl Virus": 0.9999562733208955,
+    "Tomato Mosaic Virus": 1.0,
+    "Healthy": 1.0
+  }
+}
