@@ -99,6 +99,24 @@ This approach ensures that all learned features are **specific to agricultural i
 
 ## Dataset
 
+### Dataset Composition
+
+<p align="center">
+  <img src="outputs/fig_01_plant_type_distribution.png" alt="Dataset Composition" width="100%">
+</p>
+
+### Tomato Subset
+
+<p align="center">
+  <img src="outputs/fig_02_tomato_class_distribution.png" alt="Tomato Subset" width="100%">
+</p>
+
+### Spectral Comparison
+
+<p align="center">
+  <img src="outputs/fig_08_healthy_vs_diseased_spectral.png" alt="Spectral Comparison" width="100%">
+</p>
+
 ### Source and Description
 
 We utilize the **PlantVillage Dataset**, a publicly available benchmark dataset for plant disease research. The dataset was filtered to include only tomato leaf images.
@@ -356,7 +374,7 @@ We employed **stratified holdout validation** rather than k-fold cross-validatio
 ## Model Performance Dashboard
 
 <p align="center">
-  <img src="outputs/diagram_07_performance_dashboard.png" alt="Model Performance Dashboard" width="80%">
+  <img src="outputs/diagram_07_performance_dashboard.png" alt="Model Performance Dashboard" width="100%">
 </p>
 
 ### CAE Reconstruction Performance
