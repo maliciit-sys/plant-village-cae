@@ -356,7 +356,7 @@ We employed **stratified holdout validation** rather than k-fold cross-validatio
 ## Model Performance Dashboard
 
 <p align="center">
-  <img src="outputs/diagram_07_performance_dashboard" alt="Model Performance Dashboard" width="80%">
+  <img src="outputs/diagram_07_performance_dashboard.png" alt="Model Performance Dashboard" width="80%">
 </p>
 
 ### CAE Reconstruction Performance
