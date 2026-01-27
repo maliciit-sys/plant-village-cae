@@ -440,6 +440,19 @@ We employed **stratified holdout validation** rather than k-fold cross-validatio
   <img src="outputs/fig_20_roc_curves.png" alt="ROC Curves" width="80%">
 </p>
 
+### CAE Training Curves
+
+<p align="center">
+  <img src="outputs/fig_11_cae_training_curves.png" alt="CAE Training Curves" width="100%">
+</p>
+
+### CNN Training Curves
+
+<p align="center">
+  <img src="outputs/fig_14_classifier_training_curves.png" alt="CNN Training Curves" width="100%">
+</p>
+
+
 **Per-Class ROC-AUC Scores:**
 - Yellow Leaf Curl Virus: 1.0000
 - Tomato Mosaic Virus: 1.0000
