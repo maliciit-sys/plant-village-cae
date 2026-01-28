@@ -1,8 +1,8 @@
 {
-  "completed_date": "2026-01-26 13:21:55",
+  "completed_date": "2026-01-28 11:57:48",
   "total_epochs": 40,
-  "total_training_time_seconds": 333.0804591178894,
-  "total_training_time_formatted": "0:05:33",
+  "total_training_time_seconds": 332.30332255363464,
+  "total_training_time_formatted": "0:05:32",
   "best_epoch": 39,
   "best_f1": 0.9773749113082886,
   "best_accuracy": 0.9762974977493286,
