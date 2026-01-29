@@ -796,25 +796,45 @@ This project successfully demonstrates the viability of **self-supervised learni
 ## References
 
 [1]	M. Ouhami, A. Hafiane, Y. Es-Saady, M. El Hajji, and R. Canals, “A systematic review of deep learning techniques for plant diseases,” Artif. Intell. Rev., vol. 57, 2024, doi: 10.1007/s10462-024-10944-7.
+
 [2]	R. Amaliyah, M. Hasan, and A. Wijaya, “Deep learning and computer vision in plant disease detection: a comprehensive review of techniques, models, and trends in precision agriculture,” Artif. Intell. Rev., vol. 58, 2025, doi: 10.1007/s10462-024-11100-x.
+
 [3]	A. Abbas, S. Jain, M. Gour, and S. Vankudothu, “Bayesian optimized multimodal deep hybrid learning approach for tomato leaf disease classification,” Sci. Rep., vol. 14, p. 21525, 2024, doi: 10.1038/s41598-024-72237-x.
+
 [4]	A. Batool, J. Kim, S.-W. Lee, J. Yang, and Y.-C. Byun, “An enhanced lightweight T-Net architecture based on convolutional neural network (CNN) for tomato plant leaf disease classification,” PeerJ Comput. Sci., vol. 10, p. e2495, 2024, doi: 10.7717/peerj-cs.2495.
+
 [5]	A. Y. Ashurov et al., “Enhancing plant disease detection through deep learning: a Depthwise CNN with squeeze and excitation integration and residual skip connections,” Front. Plant Sci., vol. 15, p. 1505857, 2025, doi: 10.3389/fpls.2024.1505857.
+
 [6]	V. Pandiyaraju et al., “Improved tomato leaf disease classification through adaptive ensemble models with exponential moving average fusion and enhanced weighted gradient optimization,” Front. Plant Sci., vol. 15, p. 1382416, 2024, doi: 10.3389/fpls.2024.1382416.
+
 [7]	P. Kaur, V. Kumar, and M. Sharma, “Hybrid-DSCNN model for tomato disease detection using PlantVillage database,” Appl. Sci., 2024.
+
 [8]	M. Rahman, Md. R. Islam, and F. Ahmed, “Deep learning based ensemble model for accurate tomato leaf disease classification by leveraging ResNet50 and MobileNetV2 architectures,” Sci. Rep., vol. 15, p. 98015, 2025, doi: 10.1038/s41598-025-98015-x.
+
 [9]	D. O. Oyewola, E. G. Dada, S. Misra, and R. Damasevicius, “Using transfer learning-based plant disease classification and detection for sustainable agriculture,” BMC Plant Biol., vol. 24, p. 136, 2024, doi: 10.1186/s12870-024-04825-y.
+
 [10]	R. Gajjar, S. Patel, and T. Zaveri, “Image-based leaf disease recognition using transfer deep learning with a novel versatile optimization module,” Big Data Cogn. Comput., vol. 8, no. 6, p. 52, 2024, doi: 10.3390/bdcc8060052.
+
 [11]	I. Kunduracioglu and I. Pacal, “Advancements in deep learning for accurate classification of grape leaves and diagnosis of grape diseases,” J. Plant Dis. Prot., vol. 131, no. 3, pp. 1061–1080, 2024, doi: 10.1007/s41348-024-00897-y.
+
 [12]	T. H. Nguyen, V. H. Hoang, and M. D. Tran, “Intelligent agricultural robotic detection system for greenhouse tomato leaf diseases using soft computing techniques and deep learning,” Sci. Rep., vol. 14, p. 75285, 2024, doi: 10.1038/s41598-024-75285-5.
+
 [13]	A. Dolatabadian, D. Fernando, and S. Cloutier, “Image-based crop disease detection using machine learning,” Plant Pathol., 2025, doi: 10.1111/ppa.14006.
+
 [14]	Y. Wang et al., “Classification of plant leaf disease recognition based on self-supervised learning,” Agronomy, vol. 14, no. 3, p. 500, 2024, doi: 10.3390/agronomy14030500.
+
 [15]	J. Chen, W. Wang, and L. Zhang, “ADPL-CAM: Siamese neural network for agricultural disease localization with weight-sharing mechanism,” Pattern Recognit., 2024.
+
 [16]	S. Huddar, K. Prabhushetty, J. Jakati, R. Havaldar, and N. Sirdeshpande, “Deep autoencoder based image enhancement approach with hybrid feature extraction for plant disease detection using supervised classification,” Int. J. Electr. Comput. Eng., vol. 14, no. 4, pp. 3971–3985, 2024, doi: 10.11591/ijece.v14i4.pp3971-3985.
+
 [17]	S. Natarajan, P. Chakrabarti, and M. Margala, “Robust diagnosis and meta visualizations of plant diseases through deep neural architecture with explainable AI,” Sci. Rep., vol. 14, p. 13695, 2024, doi: 10.1038/s41598-024-64601-8.
+
 [18]	R. Sharma, A. Singh, and H. Kaur, “Early detection of tomato leaf diseases using transformers and transfer learning,” Eur. J. Agron., p. 127212, 2025, doi: 10.1016/j.eja.2025.127212.
+
 [19]	Y. Unal, “Enhanced grape leaf disease classification using attention-based convolutional neural network with CBAM and squeeze-excitation blocks,” Comput. Electron. Agric., 2025.
+
 [20]	K. Naresh, R. Singh, and A. Patel, “Optimized Squeeze-and-Excitation Densely Connected Convolutional Neural Network for plant disease detection,” Expert Syst. Appl., 2024.
+
 [21]	T. Domingues, T. Brandao, and J. C. Ferreira, “Deep learning networks-based tomato disease and pest detection: A first review of research studies using real field datasets,” Front. Plant Sci., vol. 15, p. 1493322, 2024, doi: 10.3389/fpls.2024.1493322.
 
 ---
